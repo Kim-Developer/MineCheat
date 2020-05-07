@@ -1,5 +1,7 @@
-# ServerBackup Plugin..
+# MineCheat Plugin..
 
+This plugin requires MineSponge Plugin.
+이 플러그인은 MineSponge를 필요로 하고 있습니다.
 <br>
 
 v1.0.0 - 첫 릴리즈..<br>
