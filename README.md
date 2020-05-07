@@ -1,6 +1,6 @@
 # MineCheat Plugin..
 
-This plugin requires MineSponge Plugin.
+This plugin requires MineSponge Plugin.<br>
 이 플러그인은 MineSponge를 필요로 하고 있습니다.
 <br>
 
